@@ -63,6 +63,7 @@
 	* BC0DE.NET | NAONLAH.NET - WingKocoli
 
 Buat yg error' fftnya masukkan command ini.
+<br/>
 npm install https://github.com/gegeup1/instagram-private-api
 <br/>
 atau
