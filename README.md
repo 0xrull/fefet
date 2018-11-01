@@ -62,6 +62,11 @@
 	* SGB TEAM REBORN
 	* BC0DE.NET | NAONLAH.NET - WingKocoli
 
+Buat yg error' fftnya masukkan command ini.
+npm install https://github.com/gegeup1/instagram-private-api
+atau
+npm install https://github.com/huttarichard/instagram-private-api
+
 
 # Text Comment:
 likeback & folback ya :D|follback ya :)|salken follback & likeback ya :)| salken, boleh minta follback & likeback|udah aku follow, boleh minta follback ngak :) hehe|minta follback & like back yah, makasih hehe|nice pict, boleh minta follback & likesback nga?|udah aku follback ya , bisa bantu follback ngak :D|wah keren :), btw udah aku follow nih, bisa follback ngak|udah aku follow dan like bisa minta follback dan likebacknya hehe :)
