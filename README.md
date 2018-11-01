@@ -64,7 +64,9 @@
 
 Buat yg error' fftnya masukkan command ini.
 npm install https://github.com/gegeup1/instagram-private-api
+<br/>
 atau
+<br/>
 npm install https://github.com/huttarichard/instagram-private-api
 
 
