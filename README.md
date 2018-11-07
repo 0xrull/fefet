@@ -41,6 +41,8 @@
 7. insert usenem target (jangan pake @ iyh)
 8. insert bacotan fftnya & Milisecondnya (fft yg ini gaada ittywnya jadi otomatis lu ngefollow 1x/milisecond yg lu input)
 <br/>
+
+<br/>
 Pake Termux :
 1. pkg install nodejs-lts
 2. pkg install php
@@ -54,6 +56,7 @@ Pake Termux :
 10. insert usenem target (jangan pake @ iyh)
 11. insert bacotan fftnya & Milisecondnya (fft yg ini gaada ittywnya jadi otomatis lu ngefollow 1x/milisecond yg lu input)
 <br/>
+
 # INFORMATION:
 	* dellallphoto		"Delete All Post IG"			(WORK & TESTED)
 	* fah				"SELECTED WITH HASTAG IG"		(WORK & TESTED)
