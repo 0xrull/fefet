@@ -24,37 +24,37 @@
 	* Open Termux and Wait for Automatic Install of Termux.
 	* pkg install git
 	* pkg install nodejs
-	* git clone https://github.com/teamsyntaxid/bot-ig.git
+	* git clone https://github.com/gegeup1/fefet
 	* cd bot-ig
 	* unzip node_modules.zip
 	* ls
 	* node index.js
 	* Then select the tool you want to use!
 <br/>
- Pake c9.io :
-* 1. nvm install node
-* 2. git clone https://github.com/gegeup1/fefet
-* 3. cd ig-tools
-* 4. unzip node_modules.zip
-* 5. node ig.js
-* 6. insert username & pass
-* 7. insert usenem target (jangan pake @ iyh)
-* 8. insert bacotan fftnya & Milisecondnya (fft yg ini gaada ittywnya jadi otomatis lu ngefollow 1x/milisecond yg lu input)
+# Pake c9.io :
+	* 1. nvm install node
+	* 2. git clone https://github.com/gegeup1/fefet
+	* 3. cd ig-tools
+	* 4. unzip node_modules.zip
+	* 5. node ig.js
+	* 6. insert username & pass
+	* 7. insert usenem target (jangan pake @ iyh)
+	* 8. insert bacotan fftnya & Milisecondnya (fft yg ini gaada ittywnya jadi otomatis lu ngefollow 1x/milisecond yg lu input)
 <br/>
 
 <br/>
-Pake Termux :
-* 1. pkg install nodejs-lts
-* 2. pkg install php
-* 3. pkg install bash
-* 4. pkg install git
-* 5. git clone https://github.com/gegeup1/fefet
-* 6. cd ig-tools
-* 7. unzip node_modules.zip
-* 8. node ig.js
-* 9. insert username & pass
-* 10. insert usenem target (jangan pake @ iyh)
-* 11. insert bacotan fftnya & Milisecondnya (fft yg ini gaada ittywnya jadi otomatis lu ngefollow 1x/milisecond yg lu input)
+# Pake Termux :
+	* 1. pkg install nodejs-lts
+	* 2. pkg install php
+	* 3. pkg install bash
+	* 4. pkg install git
+	* 5. git clone https://github.com/gegeup1/fefet
+	* 6. cd ig-tools
+	* 7. unzip node_modules.zip
+	* 8. node ig.js
+	* 9. insert username & pass
+	* 10. insert usenem target (jangan pake @ iyh)
+	* 11. insert bacotan fftnya & Milisecondnya (fft yg ini gaada ittywnya jadi otomatis lu ngefollow 1x/milisecond yg lu input)
 <br/>
 
 # INFORMATION:
