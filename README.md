@@ -34,7 +34,7 @@
 # Pake c9.io :
 	* 1. nvm install node
 	* 2. git clone https://github.com/gegeup1/fefet
-	* 3. cd ig-tools
+	* 3. cd ig-tools<br/>
 	* 4. unzip node_modules.zip
 	* 5. node ig.js
 	* 6. insert username & pass
